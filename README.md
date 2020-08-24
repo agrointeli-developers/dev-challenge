@@ -15,7 +15,7 @@ você enxerga sua existência e como esta pode fazer alguma diferença na vida d
 
 Sua tarefa é implementar a seguinte tela
 
-* Imagem Anexada *
+![Tela](dev-challenge.png)
 
 **Estórias:**
 
