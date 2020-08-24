@@ -34,4 +34,14 @@ Sua tarefa é implementar a seguinte tela
 [7 - Como um usuário, quero inserir um novo polígono em um talhão.](../../issues/7)
 
 
+### *Orientações*
+
+Stack à ser utilizada: 
+- VueJS
+- NodeJS (preferencialmente utilize Express)
+- MongoDB
+
+_Faça um fork desse repositório para resolver o desafio e, ao final, envie o link do seu repositório para o e-mail dev@agrointeli.com.br._
+
+
 
