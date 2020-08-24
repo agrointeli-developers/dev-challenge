@@ -19,19 +19,19 @@ Sua tarefa é implementar a seguinte tela
 
 **Estórias:**
 
-1 - Como um usuário, quero listar os meus talhões.
+[1 - Como um usuário, quero listar os meus talhões.](../../issues/1)
 
-2 - Como um usuário, quero exibir um talhão.
+[2 - Como um usuário, quero exibir um talhão.](../../issues/2)
 
-3 - Como um usuário, quero alterar a característica(polígonos) de um talhão.
+[3 - Como um usuário, quero alterar a característica(polígonos) de um talhão.](../../issues/3)
 
-4 - Como um usuário, quero editar os campo de um talhão.
+[4 - Como um usuário, quero editar os campo de um talhão.](../../issues/4)
 
-5 - Como um usuário, quero excluir um polígono de um talhão.
+[5 - Como um usuário, quero excluir um polígono de um talhão.](../../issues/5)
 
-6 - Como um usuário, quero excluir um talhão.
+[6 - Como um usuário, quero excluir um talhão.](../../issues/6)
 
-7 - Como um usuário, quero inserir um novo polígono em um talhão.
+[7 - Como um usuário, quero inserir um novo polígono em um talhão.](../../issues/7)
 
 
 
